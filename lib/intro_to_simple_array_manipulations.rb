@@ -27,4 +27,6 @@ def using_concat(ar0, ar1)
 end
 
 def using_uniq(array)
-  ar
+  array.uniq
+end
+
